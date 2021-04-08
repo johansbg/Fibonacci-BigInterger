@@ -37,6 +37,7 @@ function startFib(){
     numeroDeSolicitud++;
 }
 
+//Calculo del fibonnaci
 function fibonacci(n) {
     var arr = [[0], [1]];
     for (var i = 2; i <= n; i++){
